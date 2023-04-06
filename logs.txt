@@ -1,0 +1,39 @@
+bojpo@DESKTOP-H6DHV4M MINGW64 /d/fakultet/4 semestar/si/lab1/SI_2023_lab1_212012 (master)
+$ git log
+commit 50a1b7c41e30d2dbda38c74dea6ac14e99d57e29 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Bojan Popovski <bojpopovski2002@gmail.com>
+Date:   Thu Apr 6 11:38:12 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 2054f5c8e8d7e6398fbb2e82a7d40ef84e5f57fa
+Merge: 40bb797 fa4270c
+Author: Bojan Popovski <bojpopovski2002@gmail.com>
+Date:   Thu Apr 6 11:44:35 2023 +0200
+
+    Merge branch 'bug2'
+
+commit fa4270c25f42a8e8d7b13d3d6215cb337a89ad0c (origin/bug2, bug2)
+Author: Bojan Popovski <bojpopovski2002@gmail.com>
+Date:   Thu Apr 6 11:37:04 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 40bb79754016fd345430f51fbac55b91e3dd3218 (origin/bug1, bug1)
+Author: Bojan Popovski <bojpopovski2002@gmail.com>
+Date:   Thu Apr 6 11:35:48 2023 +0200
+
+    Fix wrong loop for reading
+
+commit bfb6abd6c745add8a9b93dc467e6d9186ff0f02b
+Author: Bojan Popovski <bojpopovski2002@gmail.com>
+Date:   Thu Apr 6 11:32:52 2023 +0200
+
+    Add java class
+
+commit b5cb1fb52b8e74001da07c98cc7e16bede806c35
+Author: Bojan Popovski <bojpopovski2002@gmail.com>
+Date:   Thu Apr 6 11:31:49 2023 +0200
+
+    Initial commit
+
